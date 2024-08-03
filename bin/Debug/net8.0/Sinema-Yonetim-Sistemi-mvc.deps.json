@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sinema-Yonetim-Sistemi-mvc/1.0.0": {
+        "runtime": {
+          "Sinema-Yonetim-Sistemi-mvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sinema-Yonetim-Sistemi-mvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

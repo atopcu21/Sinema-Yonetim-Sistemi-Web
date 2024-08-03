@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Sinema-Yonetim-Sistemi-mvc.props" />
+</Project>
